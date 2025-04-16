@@ -1,8 +1,9 @@
-# Hi 👋, I'm Emilio Aguirre
-
 <div align="center">
-  <h3>A Passionate Systems Engineering Student & Full Stack Developer</h3>
-</div>
+
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Emilio Aguirre
+
+<h3>A Passionate Systems Engineering Student & Full Stack Developer</h3>
+
 
 <!-- ![Profile Banner]() -->
 
