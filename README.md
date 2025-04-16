@@ -79,6 +79,7 @@ I regularly update my [blog](https://emilioaguirre.dev/) where I share my journe
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
 ## 📊 GitHub Stats:
 ![emiliioaguirre's Stats](https://github-readme-stats.vercel.app/api?username=emiliioaguirre&theme=graywhite&show_icons=true&hide_border=false&count_private=true)
