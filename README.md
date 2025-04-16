@@ -22,8 +22,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:emilioaat@protonmail.com)
 </div>
 
-### 💼 Looking to collaborate on innovative projects or discuss tech? Let's connect!
-
 ## 📝 My Blog:
 I regularly update my [blog](https://emilioaguirre.dev/) where I share my journey in tech, programming insights, and personal projects.
 
