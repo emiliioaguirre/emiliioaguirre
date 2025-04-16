@@ -76,3 +76,4 @@ I regularly update my [blog](https://emilioaguirre.dev/) where I share my journe
 
 ## 📊 GitHub Stats:
 ![emiliioaguirre's Stats](https://github-readme-stats.vercel.app/api?username=emiliioaguirre&theme=graywhite&show_icons=true&hide_border=false&count_private=true)
+![emiliioaguirre's Streak](https://github-readme-streak-stats.herokuapp.com/?user=emiliioaguirre&theme=graywhite&hide_border=true)
