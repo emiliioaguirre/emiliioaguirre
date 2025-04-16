@@ -10,7 +10,7 @@
 ## 💫 About Me:
 👨‍💻 I'm Emilio, a dedicated student and aspiring full stack software developer. I love tackling complex problems and turning ideas into reality through code.<br>
 🎓 Currently pursuing my degree at Cristobal Colon University, where I'm mastering Advanced Programming, Database Architecture, and Web Development.<br>
-🌟 Proud holder of a [CAMBRIDGE](https://www.credly.com/badges/27a4fd61-c3ac-496b-94e6-84c1a4a020a8/public_url) B2 certification, enabling me to collaborate effectively in global tech environments.<br>
+🌟 Proud holder of a [CAMBRIDGE]([https://www.credly.com/badges/27a4fd61-c3ac-496b-94e6-84c1a4a020a8/public_url](https://www.linkedin.com/in/emilioaguirree/overlay/1737599457242/single-media-viewer?type=DOCUMENT&profileId=ACoAAEX4LUABKFtdhNM8B5lTFNBcy8L9yqlTOiA&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BU%2Fq2iKERSEemFo7Xc66jBA%3D%3D)) B2 certification, enabling me to collaborate effectively in global tech environments.<br>
 🚀 I thrive on turning complex problems into elegant solutions, always eager to learn and implement cutting-edge technologies.<br>
 🎾 When I'm not coding, you'll find me on the padel court.<br>
 
