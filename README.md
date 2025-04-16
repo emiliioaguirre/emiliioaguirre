@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Emilio Aguirre
 
-<h3>A Passionate Systems Engineering Student & Full Stack Developer</h3>
+<h3>A Passionate Systems Engineering Student</h3>
 </div>
 
 <!-- ![Profile Banner]() -->
