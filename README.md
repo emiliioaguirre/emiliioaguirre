@@ -75,6 +75,4 @@ I regularly update my [blog](https://emilioaguirre.dev/) where I share my journe
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=emiliioaguirre&theme=radical&hide_border=false&include_all_commits=true&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=emiliioaguirre&theme=radical&hide_border=false&theme=catppuccin_mocha)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emiliioaguirre&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
+![emiliioaguirre's Stats](https://github-readme-stats.vercel.app/api?username=emiliioaguirre&theme=graywhite&show_icons=true&hide_border=false&count_private=true)
