@@ -19,7 +19,7 @@
   
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/emilioaguirree/) 
 [![Twitter/X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/emiliioaguirre)
-[![Email](https://img.shields.io/badge/Proton%20Drive-6d4aff?logo=proton%20drive&logoColor=white)](mailto:emilioaat@protonmail.com)
+[![Email](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:emilioaat@protonmail.com)
 </div>
 
 ## 📝 My Blog:
