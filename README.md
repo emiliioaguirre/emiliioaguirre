@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Emilio Aguirree
+# Hi 👋, I'm Emilio Aguirre
 
 <h3>A Passionate Systems Engineering Student</h3>
 </div>
