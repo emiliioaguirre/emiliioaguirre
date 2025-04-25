@@ -80,3 +80,4 @@ I regularly update my [blog](https://emilioaguirre.dev/) where I share my journe
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
